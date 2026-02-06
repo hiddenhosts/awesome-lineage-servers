@@ -1,0 +1,36 @@
+name: Sync Server List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync server list
+        run: node scripts/sync.js
+        env:
+          GAME_SLUG: 'lineage'
+          SITE_URL: 'https://hiddenhosts.com'
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" && exit 0
+          git add README.md README_EN.md
+          git commit -m "chore: sync server list [$(date -u +%Y-%m-%d)]"
+          git push
