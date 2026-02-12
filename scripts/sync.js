@@ -99,9 +99,9 @@ function updateReadme(filePath, servers, locale) {
 	const table = generateMarkdownTable(servers, locale)
 	const newContent =
 		content.substring(0, startIndex + startMarker.length) +
-		'\n' +
+		'\n\n' +
 		table +
-		'\n' +
+		'\n\n' +
 		content.substring(endIndex)
 
 	fs.writeFileSync(filePath, newContent, 'utf-8')
