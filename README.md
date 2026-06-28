@@ -22,106 +22,106 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 醉意⭐天堂 | 10Kx | 50x | 2x | 95 | - | [詳情](https://hiddenhosts.com/server/server-d7zrhf) |
-| 軍威雙魚服 | 30x | 2x | 1x | 95 | - | [詳情](https://hiddenhosts.com/server/server-234z7c) |
-| ✅昔日新春服 | 30x | 3x | 1x | 89 | - | [詳情](https://hiddenhosts.com/server/server-rpghuq) |
-| 霜火182天堂 | 5x | 1x | 1x | 88 | - | [詳情](https://hiddenhosts.com/server/182-37) |
-| 黑幫天堂 | 10x | 1x | 1x | 87 | - | [詳情](https://hiddenhosts.com/server/server-kfe04z) |
-| 神意天堂 | 300x | 10x | 3x | 87 | - | [詳情](https://hiddenhosts.com/server/server-fpqe5m) |
-| 水晶天堂 | 100x | 3x | 2x | 86 | - | [詳情](https://hiddenhosts.com/server/server-e2r1vf-1) |
-| 殺戮天堂 | 30x | 2x | 1x | 86 | - | [詳情](https://hiddenhosts.com/server/server-dzykrx) |
-| 無限天堂 | 10x | 3x | 1x | 85 | - | [詳情](https://hiddenhosts.com/server/server-ew4juw) |
-| 愛神天堂 | 30x | 2x | 2x | 84 | - | [詳情](https://hiddenhosts.com/server/server-cr4p24) |
-| 永恆天堂 | 200x | 2x | 2x | 84 | - | [詳情](https://hiddenhosts.com/server/server-e1wz9j) |
-| 蒂芬妮金樽服 | 30x | 2x | 1x | 84 | - | [詳情](https://hiddenhosts.com/server/server-xtj7r1) |
-| 百崴天堂 | 30x | 2x | 2x | 84 | - | [詳情](https://hiddenhosts.com/server/server-fc43xr) |
-| ✅火舞天堂 | 30x | 3x | 1x | 83 | - | [詳情](https://hiddenhosts.com/server/server-p82lsh) |
-| 創世紀天堂 | 30x | 2x | 1x | 82 | - | [詳情](https://hiddenhosts.com/server/server-mdod0o) |
-| 殺戮永恆服 | 30x | 2x | 1x | 82 | - | [詳情](https://hiddenhosts.com/server/server-7uy0zv) |
-| ⭐迪奧天堂 | 9Kx | 188x | 8x | 82 | - | [詳情](https://hiddenhosts.com/server/server-p7ptmi) |
-| 真冰涼天堂 | 125x | 3x | 2x | 81 | - | [詳情](https://hiddenhosts.com/server/server-kozbks) |
-| ★曲中人天堂 | 30x | 3x | 1x | 81 | - | [詳情](https://hiddenhosts.com/server/server-m60utp) |
-| 天使天堂 | 20x | 2x | 2x | 81 | - | [詳情](https://hiddenhosts.com/server/server-bkx5gv) |
-| ⚔️武統派天堂 | 30x | 2x | 2x | 81 | - | [詳情](https://hiddenhosts.com/server/server-uo1typ) |
-| 辰海天堂 | 50x | 2x | 1x | 81 | - | [詳情](https://hiddenhosts.com/server/server-ikwc8w) |
-| Rosa天堂 | 10x | 3x | 1x | 81 | - | [詳情](https://hiddenhosts.com/server/rosa) |
-| ❤️羽憶182天堂 | 30x | 1x | 1x | 81 | - | [詳情](https://hiddenhosts.com/server/182-31) |
-| 雷瓦天堂 | 100x | 3x | 2x | 81 | - | [詳情](https://hiddenhosts.com/server/server-jj13wo) |
-| 赤壁182天堂 | 10x | 2x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/182-35) |
-| 伊芙琳斬域服 | 30x | 2x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/server-jlgcty) |
-| 勝力天堂 | 5x | 1x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/server-ass8uv) |
-| ★雨滴天堂 | 30x | 3x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/server-q39lsa) |
-| 破給天堂 | 10Kx | 50x | 3x | 80 | - | [詳情](https://hiddenhosts.com/server/server-foljqj) |
-| 馬賓天堂 | 8Kx | 20x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/server-jytrkw) |
-| 刀馬天堂 | 300x | 10x | 2x | 80 | - | [詳情](https://hiddenhosts.com/server/server-az9v39) |
-| ★小毛病天堂 | 30x | 3x | 1x | 80 | - | [詳情](https://hiddenhosts.com/server/server-a75z71) |
-| 超掛機天堂 | 3Kx | 100x | 2x | 80 | - | [詳情](https://hiddenhosts.com/server/server-1wfwta) |
-| 佐伊天堂 | 10x | 1x | 1x | 79 | - | [詳情](https://hiddenhosts.com/server/server-ac50s3) |
-| 鬥神戰16服 | 100x | 15x | 2x | 79 | - | [詳情](https://hiddenhosts.com/server/16) |
-| ✨鎮魂天堂 | 30x | 3x | 1x | 79 | - | [詳情](https://hiddenhosts.com/server/server-ub3xit) |
-| 拳願天堂 | 20x | 2x | 2x | 79 | - | [詳情](https://hiddenhosts.com/server/server-d41f26) |
-| 水瓶座天堂 | 10Kx | 60x | 3x | 79 | - | [詳情](https://hiddenhosts.com/server/server-c1a4im) |
-| 金星天堂 | 10x | 3x | 1x | 79 | - | [詳情](https://hiddenhosts.com/server/server-ithm1z) |
-| 新刀劍神域服 | 15x | 2x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-di6bgv) |
-| 星語天堂 | 10x | 5x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-dgfiqg) |
-| 法拉利天堂 | 30x | 2x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-c5g2q6) |
-| 樂業天堂 | 20x | 2x | 2x | 78 | - | [詳情](https://hiddenhosts.com/server/server-dt7u1w) |
-| 水母天堂 | 100x | 3x | 2x | 78 | - | [詳情](https://hiddenhosts.com/server/server-e3j7iq) |
-| 初心天堂 | 35x | 2x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-arb0sf) |
-| ✨醉春風天堂 | 30x | 3x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-1c7ku5) |
-| 駿馬天堂 | 10Kx | 60x | 2x | 78 | - | [詳情](https://hiddenhosts.com/server/server-k26ibq) |
-| 小心肝天堂 | 35x | 2x | 1x | 78 | - | [詳情](https://hiddenhosts.com/server/server-hemb0i) |
-| ✅鬥陣欸天堂 | 30x | 2x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/server-s8mvfy) |
-| 超經典天堂 | 300x | 10x | 2x | 77 | - | [詳情](https://hiddenhosts.com/server/server-19toub) |
-| 兵王天堂 | 4Kx | 200x | 3x | 77 | - | [詳情](https://hiddenhosts.com/server/server-ar820f) |
-| 創世182天堂 | 20x | 2x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/182-33) |
-| ✨時光天堂 | 30x | 3x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/server-oa1414) |
-| ★船歌天堂 | 30x | 3x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/server-ngtc6p) |
-| ❤️惡魔天堂 | 7Kx | 100x | 10x | 77 | - | [詳情](https://hiddenhosts.com/server/server-r8e2d3) |
-| ✨霸域天堂 | 20x | 2x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/server-uhb3t4) |
-| 江湖寶版天堂 | 5Kx | 50x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/server-c61hwi) |
-| 火之神天堂 | 300x | 2x | 2x | 77 | - | [詳情](https://hiddenhosts.com/server/server-nqw8t3) |
-| 菜刀天堂 | 6Kx | 100x | 10x | 77 | - | [詳情](https://hiddenhosts.com/server/server-gz62e5) |
-| 不一樣天幣2服 | 5x | 2x | 1x | 77 | - | [詳情](https://hiddenhosts.com/server/2-2) |
-| 起源天堂 | 40x | 5x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-iayt2q) |
-| 神戒內掛天堂 | 150x | 20x | 2x | 76 | - | [詳情](https://hiddenhosts.com/server/server-om4ebj) |
-| 賀拉天堂 | 100x | 3x | 2x | 76 | - | [詳情](https://hiddenhosts.com/server/server-i5zute) |
-| ★探索家天堂 | 35x | 3x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-t567w6) |
-| ★等待天堂 | 30x | 3x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-mjl7tm) |
-| 序章182天堂 | 3x | 1x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/182-16) |
-| 決戰肯特城服 | 3x | 1x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-hwz84h) |
-| 隕月天堂 | 20x | 3x | 3x | 76 | - | [詳情](https://hiddenhosts.com/server/server-jf9eto) |
-| ❤️龍之都天堂 | 20x | 1x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-ebh1e5) |
-| 重啟天堂 | 50x | 2x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-iqyqi3) |
-| 烈火天堂 | 300x | 2x | 2x | 76 | - | [詳情](https://hiddenhosts.com/server/server-eozwm4) |
-| 古巴天堂 | 100x | 3x | 2x | 76 | - | [詳情](https://hiddenhosts.com/server/server-az40i1) |
-| 舒活天堂 | 10x | 3x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-gv17he) |
-| 鬥陣星王服 | 30x | 2x | 1x | 76 | - | [詳情](https://hiddenhosts.com/server/server-d9mlwd) |
-| 虎鶴天堂 | 30x | 3x | 1x | 75 | - | [詳情](https://hiddenhosts.com/server/server-hlcyov) |
-| 坂本天堂 | 100x | 3x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-bfr15v) |
-| ✅赤馬天堂 | 40x | 2x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-sz2qti) |
-| 史巴托182天堂 | 5x | 2x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/182-2) |
-| 王國騎士服 | 30x | 2x | 1x | 75 | - | [詳情](https://hiddenhosts.com/server/server-xttpe8) |
-| ❤️亞利安天堂 | 7Kx | 100x | 10x | 75 | - | [詳情](https://hiddenhosts.com/server/server-hqhqgk) |
-| ✅水墨2服 | 40x | 2x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/2-3) |
-| 十七天堂 | 1Kx | 20x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-atvviz) |
-| 唯我天堂 | 50x | 3x | 1x | 75 | - | [詳情](https://hiddenhosts.com/server/server-b5l1yz) |
-| 維多利亞天堂 | 200x | 2x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-yna2at) |
-| ❤️呼嚕嚕天堂 | 3Kx | 20x | 2.5x | 75 | - | [詳情](https://hiddenhosts.com/server/server-5qpxoq) |
-| ★雪山天堂 | 30x | 3x | 1x | 75 | - | [詳情](https://hiddenhosts.com/server/server-q0l9qd) |
-| ♜史歌天堂 | 6Kx | 200x | 10x | 75 | - | [詳情](https://hiddenhosts.com/server/server-iyiu7j) |
-| 墨殤天堂 | 10x | 1x | 1x | 75 | - | [詳情](https://hiddenhosts.com/server/server-bmr6r9) |
-| ２７０Ｃ天堂 | 30x | 2x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-gecjcf) |
-| 魔界天堂 | 168x | 3x | 2x | 75 | - | [詳情](https://hiddenhosts.com/server/server-k2wfw1) |
-| ❤️日和天堂 | 6Kx | 20x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-rkspbf) |
-| ❤️饗❤️天堂 | 20x | 2x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-effrww) |
-| 奧斯卡天堂 | 40x | 2x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-7kzoxe) |
-| 幻遊天堂 | 30x | 3x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-cikh2g) |
-| 新哥布林天堂 | 3x | 1x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-q71oyq) |
-| 仕戰天堂 | 3Kx | 5x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-acrgac) |
-| 冰淇淋天堂 | 20x | 2x | 2x | 74 | - | [詳情](https://hiddenhosts.com/server/server-lgbo1f) |
-| 回到天堂 | 2x | 1x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-bawj2j) |
-| 天神天堂 | 20x | 1x | 1x | 74 | - | [詳情](https://hiddenhosts.com/server/server-br1xqm) |
+| HH 測試伺服器 | 100x | 100x | 100x | 73 | - | [詳情](https://hiddenhosts.com/server/hh-mldoh731) |
+| ⭐️神瑞天堂 | 100x | 1x | - | 3 | - | [詳情](https://hiddenhosts.com/server/server-8bbpbs) |
+| ⚔️神罰天堂 | 50x | 2x | - | 3 | - | [詳情](https://hiddenhosts.com/server/server-2r8kp2) |
+| 鬥神戰18服 | 100x | 15x | - | 2 | - | [詳情](https://hiddenhosts.com/server/18) |
+| 殺破天堂 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-e36pf7) |
+| 冰結天堂 (1) | 20x | 3x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-atp8rd-1) |
+| 艾莉絲天堂 (1) | 3Kx | 100x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-u48tog-1) |
+| 綻放天堂 (1) | 300x | 10x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-ga5onw-1) |
+| ❤️新衣天堂 | 100x | 1x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-rrg7mf) |
+| 殺神天堂 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-e3cue5) |
+| 璀璨天堂 | 2x | 1x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-f6i4o1) |
+| 軍威尊威服 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-1u7rky) |
+| 萬神殿天堂 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-zbwy6e) |
+| ❤一縷糖天堂 | 2Kx | 10x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-iaq04s) |
+| 塔西雅鬼宿服 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-ugglzk) |
+| 騰達之天堂 | 20x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-hvgrog) |
+| EJ天堂 | 200x | 10x | - | 2 | - | [詳情](https://hiddenhosts.com/server/ej) |
+| 將門天堂 | 35x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-c86yhe) |
+| 戰龍魂天堂 | 4Kx | 20x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-li8ybm) |
+| 卡蒂亞天堂 | 10x | 1x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-c3lkga) |
+| 紅綠燈永恆服 | 10Kx | 60x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-wq3zxu) |
+| 殺戰天堂 | 30x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-dzym9b) |
+| 維納斯天堂 | 35x | 2x | - | 2 | - | [詳情](https://hiddenhosts.com/server/server-add97s) |
+| ❤️獵城新服 | 3Kx | 25x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-tax1vl) |
+| 順天堂2.0服 | 12x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/20) |
+| 話島182天堂 (46) | 4x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/182-46) |
+| 洪武天堂 | 5Kx | 100x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-e7u5x1) |
+| 海鹽天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-egoq5b) |
+| 雲霜天堂 | 100x | 15x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jnyb4z) |
+| 飆風玄仙服 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-m7acqy) |
+| 重啟太陽神服 | 10x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-nrl5zg) |
+| 暗界內掛天堂 (1) | 70x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ngwlwe-1) |
+| 聖神永聖服 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-kc882v-1) |
+| 鬼島天堂 (1) | 1Kx | 50x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jywskz-1) |
+| 蔚藍天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-hce9f0) |
+| 里包恩天堂 | 100x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-cov3rd) |
+| 炎姬天堂 | 20x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-eko907) |
+| 龍宿天堂 | 300x | 10x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-kibyh7) |
+| ❤️古神天堂 | 20x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-pgfw9q) |
+| ★幻月城天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ixru51) |
+| 九傳奇天堂 | 3Kx | 35x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-wtu47e) |
+| ★佛琳天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-h35ewm) |
+| ✅老骷髏天堂 (1) | 15x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-63x5yr-1) |
+| ✨万法天堂 | 20x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-lc1ljj) |
+| 未来天堂 | 10x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-dg0a0k) |
+| ⚔️榮光天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-l8wen) |
+| 龍魂訣天堂 | 2Kx | 65x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-4puw9z) |
+| 邪羅天堂 | 5Kx | 100x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-irz68k) |
+| 夜光天堂 | 100x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-bkya92) |
+| 魔窟天堂 | 168x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-k3oikk) |
+| 大展鴻圖天堂 | 5Kx | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-zgcrr6) |
+| ✨遺憾天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-to5291) |
+| 摘星天堂 | 100x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-d30jr4) |
+| 霸尊天堂 | 2Kx | 70x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jgjj2j) |
+| ✅決戰182天堂 (41) | 20x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/182-41) |
+| 塔西雅井宿服 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-uroson-1) |
+| 爆改天堂三服 | 10Kx | 150x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-lwty6o) |
+| ✅鳳仙270天堂 (2) | 2Kx | 100x | - | 1 | - | [詳情](https://hiddenhosts.com/server/270-2) |
+| 閃銀天堂 (2) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jgrnyu-2) |
+| 降魔天堂 | 2Kx | 50x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jln74w) |
+| ★深夜天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ku27t5) |
+| ★蟹人天堂 | 30x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-o2qlgf) |
+| 雷火天堂 | 100x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jidhe5) |
+| 劍魚座天堂 | 10x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ce3b1p) |
+| 夜神晴天服 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-8zxb3q) |
+| 瘋神天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-fe76r0) |
+| 不倒翁天堂 | 2x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-vomnqt) |
+| 御神天堂 | 300x | 10x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ckfc0m) |
+| 海鬼天堂 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-eg7kgu-1) |
+| ✅道地天堂 | 20x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-t2npff) |
+| 帝都天堂 | 2Kx | 35x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ch0515) |
+| 火焰天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-engkwu) |
+| 塔西雅井宿服 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-uroson) |
+| 閃光天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-j77sf3) |
+| 曜陽天堂 | 10x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-dlispm) |
+| 飆風玄仙服 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-m7acqy-1) |
+| ✨免錢天堂 | 30x | 10x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-lwin2u) |
+| ✅極道182天堂 (24) | 3x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/182-24) |
+| 海鬼天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-eg7kgu) |
+| ✨巷仔內天堂 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-9k8ujf) |
+| 魔龍天堂 | 168x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-k938tu) |
+| 火山天堂 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-ekf6qn-1) |
+| 舞動天堂五服 | 100x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-h47wwn) |
+| 聖神永聖服 | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-kc882v) |
+| 閃銀天堂 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-jgrnyu-1) |
+| 殺破天堂 (1) | 30x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-e36pf7-1) |
+| 黑科技天堂 | 100x | 3x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-2j5u3r) |
+| 水精靈天堂 (1) | 10x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-d8wo3b-1) |
+| 蒼戰天堂 | 50x | 1x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-h5iga5) |
+| ✅藝界天堂 | 20x | 2x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-rvki4t) |
+| 尬電天堂 | 8Kx | 100x | - | 1 | - | [詳情](https://hiddenhosts.com/server/server-c92e14) |
+| ✅神說天堂 (1) | 1Kx | 10x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-qdyj62-1) |
+| 奧汀天堂 (1) | 3Kx | 100x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-bq8cxe-1) |
+| 襲刃天堂 | 100x | 3x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-hoj7uy) |
+| 明利多✨天堂 | 30x | 2x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-bwg926) |
+| 獅王天堂 | 30x | 3x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-f0r4gv) |
+| ⭐微夏182天堂 (9) | 5x | 1x | - | 0 | - | [詳情](https://hiddenhosts.com/server/182-9) |
+| ✅昔日災禍服 | 30x | 3x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-rr4qyv) |
+| ✅超越182天堂 (5) | 1x | 1x | - | 0 | - | [詳情](https://hiddenhosts.com/server/182-5) |
+| 喜相逢天堂 | 30x | 3x | - | 0 | - | [詳情](https://hiddenhosts.com/server/server-4tipj5) |
 
 <!-- SERVERS_END -->
 
