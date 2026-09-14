@@ -1,167 +1,19 @@
-<p align="center">
-  <a href="https://hiddenhosts.com/en/game/lineage">
-    <img src="https://hiddenhosts.com/logo.png" alt="HiddenHosts" width="120" />
-  </a>
-</p>
+# 這份清單已經停止更新
 
-# Awesome Lineage Private Servers
+榜單本身在 [HiddenHosts](https://www.hiddenhosts.com/c/lineage)，即時更新，每 6 小時檢查一次每個站點還連不連得上。
+這裡曾經放的是那份榜單的複製品，維護兩份同樣的東西沒有意義，所以停在這裡。
 
-[![Sync](https://github.com/hiddenhosts/awesome-lineage-servers/actions/workflows/sync.yml/badge.svg)](https://github.com/hiddenhosts/awesome-lineage-servers/actions/workflows/sync.yml)
+接手的是 **[hiddenhosts/tw-game-server-uptime](https://github.com/hiddenhosts/tw-game-server-uptime)**：
+不是榜單，是這個市場的統計。每個月有多少站點連得上、多少換過網址、多少消失，逐月累積，CC BY 4.0。
+那是全網只有這裡有的數字。
 
-A curated list of Lineage private servers, maintained by [HiddenHosts](https://hiddenhosts.com) and updated daily.
-
-> **📋 Want the full list?** Visit **[HiddenHosts - Lineage Servers](https://hiddenhosts.com/en/game/lineage)** for more servers with voting, ratings, and favorites.
-
----
-
-## Server List
-
-> Sorted by votes. Auto-synced daily from [HiddenHosts](https://hiddenhosts.com).
-
-<!-- SERVERS_START -->
-
-| Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
-|------|----------|----------|----------|--------|------|------|
-| ✨極鑫S2服 | 500x | 15x | 2x | 48 | - | [Details](https://hiddenhosts.com/en/server/極鑫s2服) |
-| 紅綠燈懷舊服 | 9Kx | 60x | 2x | 41 | - | [Details](https://hiddenhosts.com/en/server/紅綠燈懷舊服) |
-| 新海神1服 | 3x | 1x | 1x | 41 | - | [Details](https://hiddenhosts.com/en/server/新海神1服) |
-| 鬥神戰18服 | 100x | 15x | 2x | 41 | - | [Details](https://hiddenhosts.com/en/server/鬥神戰18服) |
-| ❤️神鳳天堂 | 6Kx | 20x | 1x | 40 | - | [Details](https://hiddenhosts.com/en/server/神鳳天堂) |
-| 金典內掛服 | 20x | 2x | 1x | 40 | - | [Details](https://hiddenhosts.com/en/server/金典內掛服) |
-| 爆改天堂二服 | 10Kx | 150x | 2x | 39 | - | [Details](https://hiddenhosts.com/en/server/爆改天堂二服) |
-| 瘋狂天堂 | 30x | 2x | 1x | 38 | - | [Details](https://hiddenhosts.com/en/server/瘋狂天堂) |
-| 海牙天堂 | 30x | 2x | 1x | 37 | - | [Details](https://hiddenhosts.com/en/server/海牙天堂) |
-| 大天堂貳服 | 3x | 1x | 1x | 37 | - | [Details](https://hiddenhosts.com/en/server/大天堂貳服) |
-| 重啟戰神服 | 10x | 1x | 2x | 37 | - | [Details](https://hiddenhosts.com/en/server/重啟戰神服) |
-| 殺神天堂 | 30x | 2x | 1x | 37 | - | [Details](https://hiddenhosts.com/en/server/殺神天堂) |
-| 神策內掛天堂 | 20x | 2x | 2x | 36 | - | [Details](https://hiddenhosts.com/en/server/神策內掛天堂) |
-| ⚔️諾亞天堂 | 4Kx | 100x | 5x | 36 | - | [Details](https://hiddenhosts.com/en/server/諾亞天堂) |
-| 卡蒂亞天堂 | 10x | 1x | 1x | 36 | - | [Details](https://hiddenhosts.com/en/server/卡蒂亞天堂) |
-| 決戰尋憶天堂 | 10x | 1x | 1.5x | 35 | - | [Details](https://hiddenhosts.com/en/server/決戰尋憶天堂) |
-| 烈魂天堂 | 30x | 2x | 1x | 35 | - | [Details](https://hiddenhosts.com/en/server/烈魂天堂) |
-| 綻放天堂 | 300x | 10x | 3x | 35 | - | [Details](https://hiddenhosts.com/en/server/綻放天堂) |
-| 冰火天堂 | 3Kx | 150x | 3x | 35 | - | [Details](https://hiddenhosts.com/en/server/冰火天堂) |
-| 閃刀天堂 | 30x | 2x | 1x | 35 | - | [Details](https://hiddenhosts.com/en/server/閃刀天堂) |
-| 軍威獄威服 | 30x | 2x | 1x | 34 | - | [Details](https://hiddenhosts.com/en/server/軍威獄威服) |
-| 順天堂2.0服 | 12x | 2x | 5x | 34 | - | [Details](https://hiddenhosts.com/en/server/順天堂20服) |
-| ⚔️冥曜天堂 | 50x | 2x | 1x | 34 | - | [Details](https://hiddenhosts.com/en/server/冥曜天堂) |
-| 星燦天堂 | 1Kx | 20x | 2x | 34 | - | [Details](https://hiddenhosts.com/en/server/星燦天堂) |
-| 聖神慶蒼服 | 30x | 2x | 1x | 33 | - | [Details](https://hiddenhosts.com/en/server/聖神慶蒼服) |
-| 艾莉絲天堂 | 3Kx | 100x | 2x | 33 | - | [Details](https://hiddenhosts.com/en/server/艾莉絲天堂) |
-| 兵王天堂 | 4Kx | 200x | 3x | 33 | - | [Details](https://hiddenhosts.com/en/server/兵王天堂) |
-| 修煉天堂 | 2Kx | 10x | 1x | 33 | - | [Details](https://hiddenhosts.com/en/server/修煉天堂) |
-| 雲霜天堂 | 100x | 15x | 2x | 33 | - | [Details](https://hiddenhosts.com/en/server/雲霜天堂) |
-| 舊愛天堂新服 | 20x | 1x | 1x | 33 | - | [Details](https://hiddenhosts.com/en/server/舊愛天堂新服) |
-| 秦始皇天堂 | 10Kx | 60x | 2x | 33 | - | [Details](https://hiddenhosts.com/en/server/秦始皇天堂) |
-| ✅豆漿加速1服 | 3Kx | 25x | 2.5x | 32 | - | [Details](https://hiddenhosts.com/en/server/豆漿加速1服) |
-| 魔幻天堂 | 1Kx | 20x | 2x | 32 | - | [Details](https://hiddenhosts.com/en/server/魔幻天堂) |
-| ２７０Ｃ天堂 | 30x | 2x | 2x | 32 | - | [Details](https://hiddenhosts.com/en/server/天堂) |
-| 過癮182天堂 | 30x | 2x | 2x | 32 | - | [Details](https://hiddenhosts.com/en/server/過癮182天堂) |
-| ✨深淵天堂 | 30x | 2x | 1x | 32 | - | [Details](https://hiddenhosts.com/en/server/深淵天堂) |
-| 光速熊天堂2服 | 15x | 3x | 18x | 31 | - | [Details](https://hiddenhosts.com/en/server/光速熊天堂2服) |
-| ✅小雨天天堂 | 20x | 1x | 1x | 31 | - | [Details](https://hiddenhosts.com/en/server/小雨天天堂) |
-| 曜舞381美神服 | 6.6x | 2.2x | 2.2x | 31 | - | [Details](https://hiddenhosts.com/en/server/曜舞381美神服) |
-| 鐵拳天堂二服 | 2.5x | 5x | 2.5x | 31 | - | [Details](https://hiddenhosts.com/en/server/鐵拳天堂二服) |
-| 魔塔內掛天堂 | 30x | 2x | 2x | 31 | - | [Details](https://hiddenhosts.com/en/server/魔塔內掛天堂) |
-| 帝都天堂 | 2Kx | 70x | 4x | 31 | - | [Details](https://hiddenhosts.com/en/server/帝都天堂) |
-| 夜襲天堂 | 3Kx | 10x | 2x | 31 | - | [Details](https://hiddenhosts.com/en/server/夜襲天堂) |
-| ⭐️星光天堂 | 5Kx | 150x | 5x | 31 | - | [Details](https://hiddenhosts.com/en/server/星光天堂) |
-| 紙飛機天堂2服 | 20x | 2x | 1x | 30 | - | [Details](https://hiddenhosts.com/en/server/紙飛機天堂2服) |
-| ❤️古舊天堂 | 30x | 2x | 1x | 30 | - | [Details](https://hiddenhosts.com/en/server/古舊天堂) |
-| 聖神霸勇服 | 30x | 2x | 1x | 30 | - | [Details](https://hiddenhosts.com/en/server/聖神霸勇服) |
-| 塔西雅忘川服 | 30x | 2x | 2x | 30 | - | [Details](https://hiddenhosts.com/en/server/塔西雅忘川服) |
-| 靈神聚神服 | 30x | 2x | 1x | 30 | - | [Details](https://hiddenhosts.com/en/server/靈神聚神服) |
-| ✅神說天堂 | 1Kx | 10x | 1x | 30 | - | [Details](https://hiddenhosts.com/en/server/神說天堂) |
-| ❤️呼嚕嚕新服 | 3Kx | 20x | 2.5x | 29 | - | [Details](https://hiddenhosts.com/en/server/呼嚕嚕新服) |
-| 勝力天堂 | 5x | 1x | 1x | 29 | - | [Details](https://hiddenhosts.com/en/server/勝力天堂) |
-| 奧汀天堂 | 3Kx | 100x | 2x | 29 | - | [Details](https://hiddenhosts.com/en/server/奧汀天堂) |
-| ❤️古神天堂 | 20x | 1x | 1x | 29 | - | [Details](https://hiddenhosts.com/en/server/古神天堂) |
-| 金馬182二服 | 8x | 2x | 2x | 29 | - | [Details](https://hiddenhosts.com/en/server/金馬182二服) |
-| 神意天堂 | 300x | 10x | 3x | 29 | - | [Details](https://hiddenhosts.com/en/server/神意天堂) |
-| ✅昔日支配服 | 30x | 3x | 1x | 29 | - | [Details](https://hiddenhosts.com/en/server/昔日支配服) |
-| ❤️獵城新服 | 3Kx | 25x | 2.5x | 29 | - | [Details](https://hiddenhosts.com/en/server/獵城新服) |
-| 莫妮亞水龍服 | 20x | 3x | 2x | 29 | - | [Details](https://hiddenhosts.com/en/server/莫妮亞水龍服) |
-| 火花天堂 | 30x | 2x | 1x | 28 | - | [Details](https://hiddenhosts.com/en/server/火花天堂) |
-| ✅不滅天堂 | 50x | 1x | 1x | 28 | - | [Details](https://hiddenhosts.com/en/server/不滅天堂) |
-| 尋憶天堂 | 10x | 1.5x | 1.5x | 28 | - | [Details](https://hiddenhosts.com/en/server/尋憶天堂) |
-| 經典榮耀天堂 | 3x | 1x | 1x | 28 | - | [Details](https://hiddenhosts.com/en/server/經典榮耀天堂) |
-| 奢華✨爽服 | 8Kx | 50x | 3x | 27 | - | [Details](https://hiddenhosts.com/en/server/奢華爽服) |
-| 冰心天堂 | 20x | 3x | 2x | 27 | - | [Details](https://hiddenhosts.com/en/server/冰心天堂) |
-| 古老天堂 | 60x | 2x | 1x | 27 | - | [Details](https://hiddenhosts.com/en/server/古老天堂) |
-| ❤️墨隱天堂 | 9Kx | 70x | 2x | 27 | - | [Details](https://hiddenhosts.com/en/server/墨隱天堂) |
-| 鐵皮屋天堂 | 20x | 1x | 1x | 26 | - | [Details](https://hiddenhosts.com/en/server/鐵皮屋天堂) |
-| 星辰天堂 | 60x | 2x | 1x | 26 | - | [Details](https://hiddenhosts.com/en/server/星辰天堂) |
-| 曜舞太陽神服 | 3.9x | 1.3x | 1.3x | 26 | - | [Details](https://hiddenhosts.com/en/server/曜舞太陽神服) |
-| 龍戒天堂 | 10Kx | 60x | 3x | 25 | - | [Details](https://hiddenhosts.com/en/server/龍戒天堂) |
-| 璀璨天堂 | 2x | 1x | 1x | 25 | - | [Details](https://hiddenhosts.com/en/server/璀璨天堂) |
-| 星韻天堂 | 4Kx | 200x | 3x | 25 | - | [Details](https://hiddenhosts.com/en/server/星韻天堂) |
-| 楓葉✨天堂 | 20x | 2x | 1x | 25 | - | [Details](https://hiddenhosts.com/en/server/楓葉天堂) |
-| 暗界內掛天堂 | 70x | 2x | 2x | 25 | - | [Details](https://hiddenhosts.com/en/server/暗界內掛天堂) |
-| 舊天堂 | 10x | 1x | 1x | 25 | - | [Details](https://hiddenhosts.com/en/server/舊天堂) |
-| 凝霜⭐爽服 | 9Kx | 50x | 3x | 24 | - | [Details](https://hiddenhosts.com/en/server/凝霜爽服) |
-| ✅遺忘島天堂 | 3x | 1x | 1x | 24 | - | [Details](https://hiddenhosts.com/en/server/遺忘島天堂) |
-| 新夢幻天坪服 | 5Kx | 2x | 5x | 24 | - | [Details](https://hiddenhosts.com/en/server/新夢幻天坪服) |
-| 飆風聖者服 | 30x | 2x | 1x | 24 | - | [Details](https://hiddenhosts.com/en/server/飆風聖者服) |
-| 勝利天堂 | 35x | 2x | 1x | 23 | - | [Details](https://hiddenhosts.com/en/server/勝利天堂) |
-| 夜神上泉服 | 30x | 2x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/夜神上泉服) |
-| 始祖天堂 | 5x | 1x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/始祖天堂) |
-| 靈神進寶服 | 30x | 2x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/靈神進寶服) |
-| 新三國志天堂 | 10Kx | 999x | 2x | 21 | - | [Details](https://hiddenhosts.com/en/server/新三國志天堂) |
-| 蒼穹天堂 | 30x | 2x | 1x | 21 | - | [Details](https://hiddenhosts.com/en/server/蒼穹天堂-1) |
-| 水精靈天堂 | 10x | 1x | 2x | 20 | - | [Details](https://hiddenhosts.com/en/server/水精靈天堂) |
-| ⭐️羽憶182天堂 | 30x | 1x | 1x | 20 | - | [Details](https://hiddenhosts.com/en/server/羽憶182天堂) |
-| 海神天堂 | 3Kx | 300x | 3x | 20 | - | [Details](https://hiddenhosts.com/en/server/海神天堂) |
-| 羽桐天堂 | 30x | 3x | 2x | 19 | - | [Details](https://hiddenhosts.com/en/server/羽桐天堂) |
-| 軒元天堂 | 30x | 3x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/軒元天堂) |
-| 鬼魂天堂 | 8Kx | 100x | 10x | 19 | - | [Details](https://hiddenhosts.com/en/server/鬼魂天堂) |
-| 幻影天堂 (1) | 35x | 2x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/幻影天堂) |
-| ✅極霸混天堂 | 2Kx | 100x | 2x | 19 | - | [Details](https://hiddenhosts.com/en/server/極霸混天堂) |
-| 席月天堂 | 100x | 1x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/席月天堂) |
-| 夢琳天堂 | 30x | 3x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/夢琳天堂) |
-| 蒼焰天堂 (1) | 100x | 3x | 2x | 19 | - | [Details](https://hiddenhosts.com/en/server/蒼焰天堂) |
-| ★劫界天堂 | 30x | 3x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/劫界天堂) |
-| ✨老東港天堂 | 30x | 2x | 2x | 18 | - | [Details](https://hiddenhosts.com/en/server/老東港天堂) |
-| 月卡天堂2服 | 5x | 3x | 1.5x | 18 | - | [Details](https://hiddenhosts.com/en/server/月卡天堂2服) |
-
-<!-- SERVERS_END -->
-
-> 🔗 Browse all Lineage servers: [hiddenhosts.com/en/game/lineage](https://hiddenhosts.com/en/game/lineage)
+- 天堂私服榜單：<https://www.hiddenhosts.com/c/lineage>
+- 存活統計：<https://www.hiddenhosts.com/uptime>
+- 檢查方法：<https://www.hiddenhosts.com/methodology>
 
 ---
 
-## Submit Your Server
-
-Want your Lineage server listed here?
-
-1. Register at [HiddenHosts](https://hiddenhosts.com)
-2. Submit your server details in the dashboard
-3. Once approved, it will automatically appear in this list
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## About HiddenHosts
-
-[HiddenHosts](https://hiddenhosts.com) is a game private server discovery platform that helps players find the best servers.
-
-### Other Server Lists
-
-- [Awesome Ragnarok Online Servers](https://github.com/hiddenhosts/awesome-ragnarok-online-servers)
-- [Awesome MapleStory Servers](https://github.com/hiddenhosts/awesome-maplestory-servers)
-
----
-
-## License
-
-MIT License - See [LICENSE](LICENSE)
-
----
-
-<p align="center">
-  <a href="https://hiddenhosts.com">
-    <img src="https://img.shields.io/badge/Visit-HiddenHosts.com-blue?style=for-the-badge" alt="Visit HiddenHosts" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Powered by <a href="https://hiddenhosts.com">HiddenHosts</a> | Auto-updated daily at UTC 00:00</sub>
-</p>
+**This list is no longer updated.** The live board for Lineage private servers is at
+<https://www.hiddenhosts.com/c/lineage>, rechecked every 6 hours. The monthly uptime
+statistics that used to be scattered across these lists now live in one place:
+[hiddenhosts/tw-game-server-uptime](https://github.com/hiddenhosts/tw-game-server-uptime).
